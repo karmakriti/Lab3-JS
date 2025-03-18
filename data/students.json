@@ -1,0 +1,30 @@
+[
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "age": 22,
+    "major": "Mathematics",
+    "gpa": 3.6
+  },
+  {
+    "id": 3,
+    "name": "Charlie Brown",
+    "age": 21,
+    "major": "Physics",
+    "gpa": 3.7
+  },
+  {
+    "id": 4,
+    "name": "David Wilson",
+    "age": 23,
+    "major": "Chemistry",
+    "gpa": 3.5
+  },
+  {
+    "id": 6,
+    "name": "Fiona Gallagher",
+    "age": 22,
+    "major": "English Literature",
+    "gpa": 3.4
+  }
+]
