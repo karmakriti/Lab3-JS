@@ -24,16 +24,6 @@ npm start
 | PUT | `/students/:id` | Update student |
 | DELETE | `/students/:id` | Delete student |
 
-## Example Request
-
-```json
-{
-  "id": 1,
-  "name": "John Doe",
-  "age": 20,
-  "grade": "A"
-}
-```
 
 ## Technologies
 
